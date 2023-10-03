@@ -1,5 +1,6 @@
 {
     "files.associations": {
         "zephyr.h": "c"
-    }
+    },
+    "cmake.sourceDirectory": "/workspaces/ARM_Zephyr/zephyr"
 }
